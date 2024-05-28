@@ -23,6 +23,7 @@
 - **Exploring**: 🌟
 - **Learning new things**: 🆕
 
+## 📊 GitHub Stats
 [![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikmahajan)](https://github.com/pratikmahajan)
 
 ![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikkMahajan&layout=compact&theme=radical)
