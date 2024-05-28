@@ -15,7 +15,7 @@
 - **Databases**: MSSQL
 - **BI Tools**: Power BI, Tableau
 
-## Interests & Hobbies
+## 🚀 Interests & Hobbies
 - **Fitness Enthusiast**: 💪🏻
 - **Sports Fanatic**: 🏏
 - **Cinephile**: 📺
